@@ -41,7 +41,7 @@ int main(){
          std::cout << current->data << " ";
          current = current->next;
      }
-     std::cout << std::endl;
+     
 
      
      ReverseList(head);

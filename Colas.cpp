@@ -52,7 +52,7 @@ int main() {
         std::cout << priority.front() << " ";
         priority.pop();
     }
-    std::cout << std::endl;
+    
 
     return 0;
 }
